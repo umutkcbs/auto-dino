@@ -1,4 +1,6 @@
 # auto-dino
-A program to jump using tensorflow
+A program to jump using tensorflow - teachable machine
 
-https://www.instagram.com/p/B-uCwdGJhgT/
+Video: https://www.instagram.com/p/B-uCwdGJhgT/
+--------
+You need to download ChromeDriver <a href="https://chromedriver.chromium.org/"> Click here!</a>
